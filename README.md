@@ -22,7 +22,7 @@ The installer stops without changing anything if either is missing.
 
 ## Install
 
-1. Download `A67LG1-ChinaKilledTheRadioStar.zip` from Releases.
+1. Download [`A67LG1-ChinaKilledTheRadioStar.zip`](https://github.com/thewickedlabs/A67LG1-ChinaKilledTheRadioStar/releases/latest/download/A67LG1-ChinaKilledTheRadioStar.zip) (latest release).
 2. KernelSU Next → Modules → Install from storage → select the zip.
 3. Reboot.
 
